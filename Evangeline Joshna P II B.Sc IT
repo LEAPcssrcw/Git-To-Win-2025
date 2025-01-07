@@ -1,0 +1,25 @@
+#include <stdio.h>
+int main() 
+{
+    // Initialize a Character Array
+    char letters[] = {'L', 'E', 'A', 'P'};
+    // Loop for rows
+    for (int i = 0; i < 4; i++) 
+    {
+        // Loop for columns
+        for (int j = 0; j < 4; j++) 
+        {
+            // Conditional Statement for diagonal letter
+            if (i == j) 
+            {
+                printf("%c ", letters[i]);
+            }
+            else 
+            {
+                printf("* ");
+            }
+        }
+        printf("\n");
+    }
+    return 0;
+}
