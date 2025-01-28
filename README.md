@@ -9,19 +9,23 @@ Welcome to the GitHub Coding Competition! This repository is your go-to resource
 ### Goal: Complete each challenge across three levels of difficulty, showcasing your creativity, coding skills, and problem-solving abilities.
 
 ### Challenge:  
-**Level 1: Diagonal Letter Pattern**
-Write a C program to generate the following pattern:
+### Level 1:
+**Diagonal Letter Pattern :**
+Write a C program to generate the following pattern 
 
    ### L * * *
    ### * E * * 
    ### * * A *
    ### * * * P    
 
-**Level 2: Grid method implementation
+### Level 2:
+**Grid method implementation :**
 Create a 10x10 grid (2D array) and implement a Python program that draws a specific shape (e.g., triangle, square, or circle) based on dynamic inputs like shape type, size, and position.
+### HINT:
+   ### The grid should be initialized with 0s.
+   ### The shape should be represented using the digit 1.
 
-   ###The grid should be initialized with 0s.
-   ###The shape should be represented using the digit 1.
+   
 
 ### Rules and Guidelines:
 
