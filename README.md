@@ -15,7 +15,13 @@ Write a C program to generate the following pattern:
    ### L * * *
    ### * E * * 
    ### * * A *
-   ### * * * P      
+   ### * * * P    
+
+**Level 2: Grid method implementation
+Create a 10x10 grid (2D array) and implement a Python program that draws a specific shape (e.g., triangle, square, or circle) based on dynamic inputs like shape type, size, and position.
+
+   ###The grid should be initialized with 0s.
+   ###The shape should be represented using the digit 1.
 
 ### Rules and Guidelines:
 
