@@ -19,15 +19,19 @@ Write a C program to generate the following pattern
    ### * * * P    
 
 ### Level 2:
-**Grid method implementation :**
+### Grid method implementation :
 Create a 10x10 grid (2D array) and implement a Python program that draws a specific shape (e.g., triangle, square, or circle) based on dynamic inputs like shape type, size, and position.
-### HINT:
-   ### The grid should be initialized with 0s.
-   ### The shape should be represented using the digit 1.
-
+**HINT:**
+  The grid should be initialized with 0s.
+  The shape should be represented using the digit 1.
    
+### String reverse :
+ Write a Python function that takes an input string and outputs the string in a specific pattern:
+**HINT:** 
+    Reverse every second word in the string.
+    Replace vowels in every alternate word with.
 
-### Rules and Guidelines:
+   ### Rules and Guidelines:
 
 - **Original Submissions Only:** All work must be your own.
 - **Languages:** Use the specified language for each challenge.
