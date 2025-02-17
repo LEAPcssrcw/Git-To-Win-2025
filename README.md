@@ -39,7 +39,18 @@ Create a 10x10 grid (2D array) and implement a Python program that draws a speci
 - **Host your project on a GitHub repository.**  
 - **Preference will be given to the first and best repository.Jury's decision will be final.**
 
+### Level 3: 
+### The website must include at least five pages:
 
+- **Login Page**
+- **Sign-Up Page**
+- **Home Page**
+- **About Page**
+- **Contact Page**
+
+### >The website should be responsive, ensuring smooth functionality on both desktop and mobile screens.
+### >The website should be built using HTML, CSS, and JavaScript (no frameworks allowed like bootstrap ect...).
+### >Participants should focus on creativity and unique design ideas.
 
 
 
